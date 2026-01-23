@@ -1,3 +1,4 @@
+#write a program which contains one function named as Reverse. That function should accept one number from user and print that number in reverse order.
 def reverse(value):
     for i in range(value,0,-1):
         print(i)

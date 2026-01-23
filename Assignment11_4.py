@@ -1,3 +1,5 @@
+#write a program which contains one function named as Reversed. That function should accept one number from user and return the reversed number.
+
 def reversed(Value):
     rev = 0
     while(Value != 0):

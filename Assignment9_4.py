@@ -1,3 +1,5 @@
+#write a program which contains one function named as Cube.
+
 def Cube(value1):
     ans = 0
     

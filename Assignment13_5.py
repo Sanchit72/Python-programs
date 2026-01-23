@@ -1,3 +1,5 @@
+# write a program which contains one function named as Marks which accepts marks from user and display the class of student.
+
 def marks(value):
     if(value>75):
         print("Distinction")

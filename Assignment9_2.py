@@ -1,3 +1,5 @@
+#write a program which contains one function named as CkkGreater.# That function should accept two numbers from user and return greater number.# Input : 10  11 # Output : 11
+
 def CkkGreater(value1,value2):
     if(value1 > value2):
         return value1

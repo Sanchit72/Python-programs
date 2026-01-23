@@ -1,3 +1,5 @@
+#write a program which contains one function named as pailndrome. That function should accept one number from user and check whether that number is palindrome or not.
+
 def pailndrome(No):
     rev = 0
     temp = No

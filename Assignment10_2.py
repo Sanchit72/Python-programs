@@ -1,3 +1,5 @@
+#write a program which contains one function named as sumNatural. That function should accept one number from user and return summation of all natural numbers upto that number.
+
 def sumNatural(No):
     sum = 0
     for i in range(1,No+1):

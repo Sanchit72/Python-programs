@@ -1,3 +1,5 @@
+#write a program which contains one function named as Factorial. That function should accept one number from user and return its factorial.
+
 def Factorial(No):
     Fact = 1
     for i in range(1,No+1):

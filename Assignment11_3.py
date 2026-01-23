@@ -1,3 +1,4 @@
+#write a program which contains one function named as SumDigit. That function should accept one number from user and return the summation of digits in that number.
 def SumDigit(Value):
     sum = 0
     while(Value != 0):

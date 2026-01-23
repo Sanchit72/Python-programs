@@ -1,3 +1,5 @@
+#write a program which contains one function named as DigitCount. That function should accept one number from user and print the count of digits in that number.
+
 def DigitCount(Value):  
     count = 0
     while(Value != 0):

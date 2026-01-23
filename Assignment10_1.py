@@ -1,3 +1,5 @@
+#write a program which contains one function named as Multiplication. That function should accept one number from user and print multiplication of that number.
+
 def Multiplication(Value):
     for i in range(1,11):
         print(Value * i)

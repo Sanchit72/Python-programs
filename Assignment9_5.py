@@ -1,3 +1,5 @@
+#write a program which contains one function named as Table.
+
 def table(value1):
     ans = 0
     for i in range(10+1):

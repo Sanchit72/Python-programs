@@ -1,9 +1,11 @@
+#write a program which contains four functions as Addition, Substraction, Multiplication, Division. All functions accepts two parameters as number and perform the operation.
 def Addition(value1,value2):
     print("Addition is" ,value1+value2)
     
 def Substraction(value1,value2):
     print("Substraction is: ",value1-value2)
     
+
 def Multiplication(value1,value2):
     print("Multiplication is: ",value1*value2)
     
