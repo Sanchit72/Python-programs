@@ -17,7 +17,7 @@ def main():
     
     result=Factorial(No)
     
-    print("Factorial is :",result)
+    print("Factorial is :",result) 
     
 if __name__ == "__main__":
     main()
